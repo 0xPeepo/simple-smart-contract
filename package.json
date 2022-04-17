@@ -1,0 +1,19 @@
+{
+  "name": "simple-smart-contract",
+  "version": "1.0.0",
+  "description": "Smart contracts tests",
+  "main": "index.js",
+  "dependencies": {
+    "hardhat": "^2.9.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@personal:0xPeepo/simple-smart-contract.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
